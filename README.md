@@ -14,7 +14,7 @@ A quantile regression problem
 
 Quantile gradient boosting regressor from sklearn (to be continued)
 
-Not sure the 'quantile' loss function defined in the model, to be continued
+- Not sure the 'quantile' loss function defined in the model, to be continued
 
 Quantile deep net using Keras or Tensorflow APIs (to be continued)
 
