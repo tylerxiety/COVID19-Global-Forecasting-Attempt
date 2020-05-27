@@ -1,14 +1,14 @@
 # COVID19-Global-Forecasting-Attempt
-Attempting the Kaggle challenge on forecasting the COVID19 Global conformed and death cases
+Attempting the [Kaggle challenge on forecasting the COVID19 Global conformed and death cases](https://www.kaggle.com/c/covid19-global-forecasting-week-5)
 
 # Problem Statement
-A qantile regression problem
+A quantile regression problem
 
 # Evaluation Score
 
-Weighted Pinball Loss
+[Weighted Pinball Loss](https://www.kaggle.com/c/covid19-global-forecasting-week-5/overview/evaluation) 
 
-# Solution
+# Solution(to be continued)
 
 ## Ideas for models:
 
