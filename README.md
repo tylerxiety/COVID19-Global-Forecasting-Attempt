@@ -12,12 +12,12 @@ A quantile regression problem
 
 ## Ideas for models:
 
-Quantile gradient boosting regressor from sklearn:
+Quantile gradient boosting regressor from sklearn (to be continued)
+
 Not sure the 'quantile' loss function defined in the model, to be continued
 
-Quantile deep net using Keras or Tensorflow APIs:
-To be continued
+Quantile deep net using Keras or Tensorflow APIs (to be continued)
 
-Quantile regression forests from skargen(to be continued)
+Quantile regression forests from skargen (to be continued)
 
-Quntile linear regression from mlinsights(to be continued)
+Quntile linear regression from mlinsights (to be continued)
