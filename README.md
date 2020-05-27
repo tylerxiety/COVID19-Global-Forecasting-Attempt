@@ -23,12 +23,12 @@ A quantile regression problem
 4. Quntile linear regression from mlinsights (to be continued)
 
 
-## ideas for the missing values (to be continued):
+## Ideas for the missing values (to be continued):
 1. drop
 2. impute
 3. impute with mark on which ones are imputed
 
-## ideas for the columns (to be continued):
+## Ideas for the columns (to be continued):
 1. County: drop or keep
 2. Province_State: drop or keep
 3. Population: bins or as is
